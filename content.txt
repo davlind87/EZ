@@ -20,7 +20,7 @@ Shortcut - Z
 ---------------------
 Group Management
 ---------------------
-Shortcut - B
+Shortcut - M
 
 ---------------------
 Building Territory
