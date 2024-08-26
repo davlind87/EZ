@@ -3,7 +3,7 @@ Server Info
 ---------------------
 Current Version: 1.25 Chernarus
 Last Wipe: 05/07/2024
-Next Wipe: TBA
+Next Wipe: 1.26 Patch
 
 ---------------------
 Key Cards
